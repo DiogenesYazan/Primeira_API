@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "nome": "The Legend of Zelda Ocarina of Time",
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/d/db/The_Legend_of_Zelda_Ocarina_of_Time_3D_arte_de_capa_Europa.png",
+        "descricao": "Link é um jovem da floresta que vê seu lar em perigo e parte em uma jornada para deter um rei maligno e salvar o reino de Hyrule! Para completar sua missão, ele terá que encontrar a princesa Zelda e ajudar outros povos para reunir a Triforce e restabelecer o equilíbrio do mundo!",
+        "Ano": "1998"
+    },
+    {
+        "id": "2",
+        "nome": "Vingadores Guerra Infinita",
+        "foto": "https://img.elo7.com.br/product/original/278946B/big-poster-the-legend-of-zelda-majoras-mask-lo01-90x60-cm-poster-de-jogo.jpg",
+        "descricao": "Majora's Mask é ambientado em Termina. Três meses depois dos acontecimentos de Ocarina of Time, Link parte em busca da fada Navi, que desapareceu no final de Ocarina of Time. Durante o caminho, ele é atacado pelo misterioso Skull Kid, que utilizava a Máscara de Majora e era acompanhado por suas fadas, Tael e Tatl.",
+        "Ano": "2000" 
+    },
+    {
+        "id": "3",
+        "nome": "The Legend of Zelda: Twilight Princess",
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/6/61/The_Legend_of_Zelda_Twilight_Princess_capa.png",
+        "descricao": "Quando uma obscuridade maléfica amortalha a região de Hyrule, um jovem agricultor chamado Link é obrigado a despertar o herói – e o animal – que tem dentro de si. Quando Link viaja para o Twilight Realm, transforma-se num lobo e tem de percorrer a região com a ajuda de uma rapariga misteriosa chamada Midna.",
+        "Ano": "2006"  
+    },
+    {
+        "id": "4",
+        "nome": "The Legend of Zelda The Wind Waker",
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/0/06/The_Legend_of_Zelda_The_Wind_Waker_capa.png",
+        "descricao": "Wind Waker apresenta um Link bem mais jovem, que utiliza um barco para velejar pelos mares em busca de novas missões e lutando contra o vilão Ganondorf, que planeja conquistar o poder da Triforce. Apesar do choque inicial com o visual, Wind Waker é um dos jogos mais queridos pelos fãs da série Zelda.",
+        "Ano": "2002"  
+    },
+    {
+        "id": "5",
+        "nome": "The Legend of Zelda: The Minish Cap",
+        "foto": "http://pm1.narvii.com/6560/8715a4d77eef7b24452950c3347cbfeb874fda4c_00.jpg",
+        "descricao": "Um homem misterioso chamado Vaati, que venceu o concurso de espadachins do festival, quebra a espada dos Picori, e com seus poderes mágicos infesta Hyrule de monstros e petrifica Zelda. O rei de Hyrule pede a Link para entrar em contato com os Minish para ver se eles podem ajudar a quebrar a maldição da Zelda.",
+        "Ano": "2004"
+    },
+    {
+        "id": "6",
+        "nome": "Legend of Zelda Breath of the Wild capa",
+        "foto": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png",
+        "descricao": "É o décimo nono título da série The Legend of Zelda e foi lançado mundialmente para Wii U e Nintendo Switch em 3 de março de 2017. A história segue Link, que acorda em uma Hyrule devastada após cem anos de sono e precisa recuperar suas memórias e derrotar o mal causado por Calamity Ganon.",
+        "Ano": "2017"
+    }
+  ]
